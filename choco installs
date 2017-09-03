@@ -53,5 +53,23 @@ choco install mkdocs
 choco install snagit
 
 ## Directory Opus
-## Remote Desktop Manager
+
+
+
+--
+
+choco install rdm
+
+choco install arq
+
+choco install vivaldi
+
+choco install logitech-options
+choco install setpoint
+
+choco install cyberduck
+
+choco install nodejs
+
+npm install -g hads
 
