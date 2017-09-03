@@ -1,19 +1,6 @@
 2017-09-01
 
 
-```
-PS C:\Users\jm250402> Get-WmiObject -Class Win32_ComputerSystem
-
-Domain              : corp.ncr.com
-Manufacturer        : Dell Inc.
-Model               : Latitude E5470
-Name                : WUSJM250402-PNZ
-PrimaryOwnerName    : NCR User
-TotalPhysicalMemory : 8467210240
-
-PS C:\Users\jm250402>
-```
-
 
 Chocolatey
 Set-ExecutionPolicy AllSigned; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))
